@@ -1,6 +1,6 @@
 <img width="2000" height="2000" alt="Untitled_design_-_2026-04-24T171250 955" src="https://github.com/user-attachments/assets/751d0238-c5dd-4ddf-a769-fe7a83579493" />
 
-# memedaq — Automated Token Reward Distributor
+# Memedaq — Automated Token Reward Distributor
 
 Automated Solana wallet manager that claims creator fees, swaps SOL to a reward token via Jupiter, and distributes rewards to token holders based on a tier ranking system.
 
