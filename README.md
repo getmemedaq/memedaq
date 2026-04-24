@@ -1,4 +1,5 @@
-<img width="2000" height="2000" alt="Untitled_design_-_2026-04-24T171250 955" src="https://github.com/user-attachments/assets/751d0238-c5dd-4ddf-a769-fe7a83579493" />
+<img width="2063" height="688" alt="Add_a_heading_-_2026-04-24T190558 007" src="https://github.com/user-attachments/assets/c61c7fb4-c69f-4a87-9e02-b2830fc35779" />
+
 
 # Memedaq — Automated Token Reward Distributor
 
